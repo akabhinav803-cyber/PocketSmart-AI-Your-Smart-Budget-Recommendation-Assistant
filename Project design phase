@@ -1,0 +1,36 @@
+Project Design Phase – PocketSmart AI
+The Project Design Phase focuses on designing how PocketSmart AI: Your Smart Budget & Recommendation Assistant will work. It defines the system structure, user interface, database, and major modules before development begins.
+1. System Architecture
+PocketSmart AI will have three main layers:
+User Interface – Allows users to enter income, expenses, and budgets.
+Application/AI Layer – Analyzes financial data and generates recommendations.
+Database Layer – Stores user details, income, expenses, budgets, and savings goals.
+2. Main Modules
+User Management – Registration and login.
+Income Management – Add and manage income details.
+Expense Management – Add, edit, delete, and categorize expenses.
+Budget Management – Set and monitor budgets.
+AI Recommendation Module – Provides personalized spending and saving suggestions.
+Reports & Analysis – Displays spending patterns and financial summaries.
+Alert Module – Gives notifications when the budget limit is close or exceeded.
+3. Database Design
+The database can contain tables such as:
+Users
+Income
+Expenses
+Categories
+Budgets
+Savings Goals
+Recommendations
+4. User Interface Design
+The application can include:
+Login/Register page
+Dashboard
+Add Expense page
+Budget page
+Expense History
+AI Recommendations
+Reports/Charts
+Savings Goals
+5. Design Goal
+The main design goal is to make PocketSmart simple, secure, user-friendly, and intelligent, so users can easily manage their money and receive useful recommendations based on their financial situation.
