@@ -1,0 +1,24 @@
+Requirement Analysis Phase – PocketSmart AI
+The Requirement Analysis Phase identifies what the PocketSmart AI system needs to provide to users. The main goal is to understand user needs and define the features required to develop a useful Smart Budget & Recommendation Assistant.
+Functional Requirements
+User Registration/Login – Users can create an account and securely log in.
+Income Management – Users can enter and update their monthly income.
+Expense Tracking – Users can record their daily expenses.
+Expense Categorization – Expenses can be divided into food, travel, shopping, bills, etc.
+Budget Creation – Users can set monthly or category-wise budgets.
+Budget Monitoring – The system tracks spending against the set budget.
+AI Recommendations – PocketSmart suggests suitable spending and saving options based on the user's budget.
+Spending Alerts – Users receive alerts when their spending approaches or exceeds the budget.
+Reports & Analysis – The system provides summaries of income, expenses, savings, and spending patterns.
+Savings Goals – Users can create and track specific savings goals.
+Non-Functional Requirements
+Easy to use: Simple and user-friendly interface.
+Security: User financial information should be protected.
+Performance: Recommendations and calculations should be generated quickly.
+Reliability: Data should be stored accurately.
+Scalability: The system should support more users and features in the future.
+Hardware & Software Requirements
+Hardware: Smartphone/Computer, internet connection, sufficient storage.
+Software: Frontend, backend/database, AI or recommendation module, and a web/mobile browser or application.
+Expected Outcome
+PocketSmart AI should help users understand their spending, manage their budget, reduce unnecessary expenses, and make better financial decisions through personalized recommendations.
